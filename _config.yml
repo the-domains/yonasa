@@ -1,4 +1,3 @@
-layout_spectrum: 0.49835797934792936
 typography_spectrum: 0.49508677842095494
 color:
   brandStrength: 0.5497602964751422
@@ -11,4 +10,9 @@ color:
     - '#EFECCA'
     - '#046380'
     - '#002F2F'
+layout_spectrum: 0.49835797934792936
 name: yonasa
+navigation:
+  - name: Meet the natives
+    url: DigitalNativ.com
+    type: external
