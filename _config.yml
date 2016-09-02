@@ -12,7 +12,3 @@ color:
     - '#002F2F'
 layout_spectrum: 0.49835797934792936
 name: yonasa
-navigation:
-  - name: Meet the natives
-    url: DigitalNativ.com
-    type: external
